@@ -80,7 +80,7 @@ You will need these to run and set up the app
        ```
         cp .env.example .env
      ```
-9. Visit the twitter [developer]("http://developer.twitter.com/") page to get your apps API keys.
+9. Visit the twitter [developer]("http://developer.twitter.com/") page to get your app's API keys.
 8. Enter your twitter API keys in the respective fields of the `.env` file. Makes sure you add them in the `.env` file, and not the `.env.example` file.  
     ```
     CONSUMER_KEY = ""
