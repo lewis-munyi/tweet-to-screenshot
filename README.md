@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/lewis-munyi/tweet-to-screenshot">
-    <img src="https://source.unsplash.com/2Bdyxgz3OM0/300x200">
+    <img src="https://source.unsplash.com/SyzQ5aByJnE/300x300">
   </a>
 </p>
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    A Python/node.js app that grabs tweets from your favorite profiles, filters them according to a search string, and saves a screenshot of the tweet.
+    A Python/node.js app that harvests tweets from your favorite profiles, filters them according to a search string, and saves a screenshot of the tweet.
 </p>
 <p align="center">
     <a href="https://www.buymeacoff.ee/lewismunyi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -80,7 +80,7 @@ You will need these to run and set up the app
        ```
         cp .env.example .env
      ```
-9. Visit the twitter [developer]("http://developer.twitter.com/") page to get your apps API keys.
+9. Visit the twitter [developer]("http://developer.twitter.com/") page to get your app's API keys.
 8. Enter your twitter API keys in the respective fields of the `.env` file. Makes sure you add them in the `.env` file, and not the `.env.example` file.  
     ```
     CONSUMER_KEY = ""
