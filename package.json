@@ -1,0 +1,16 @@
+{
+  "name": "kanye-tweets",
+  "version": "1.0.0",
+  "description": "A smaal bot that harvests tweets from Kanye West and stores the favorite ones. A node bot auto-screenshots the tweets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Lewis Munyi",
+  "license": "MIT",
+  "dependencies": {
+    "neat-csv": "^5.1.0",
+    "nodemon": "^2.0.2",
+    "puppeteer": "^2.0.0"
+  }
+}
