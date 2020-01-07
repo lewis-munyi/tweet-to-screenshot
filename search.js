@@ -1,3 +1,5 @@
+export const state = false;
+
 export const search_terms = [
     "Follow the innate feelings inside of you",
     "life keeps getting better",

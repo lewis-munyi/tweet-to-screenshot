@@ -1,7 +1,7 @@
 const fs = require('fs')
 const neatCsv = require('neat-csv');
 const puppeteer = require('puppeteer');
-import {search_terms} from 'search';
+import {state, search_terms} from 'search';
 
 
 
@@ -18,7 +18,7 @@ import {search_terms} from 'search';
             for (term of search_terms) {
                 if (tweet.tweet_text.includes(term)) {
 
-                    const browser = await puppeteer.launch({ headless: false,
+                    const browser = await puppeteer.launch({ headless: state,
                         args: ['--no-sandbox', '--disable-setuid-sandbox']
                     });
                     const page = await browser.newPage();
