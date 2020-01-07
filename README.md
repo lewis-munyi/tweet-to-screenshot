@@ -1,7 +1,7 @@
 
 <p align="center">
-  <a href="https://example.com/">
-    <img src="https://source.unsplash.com/f-PH16nZHKI/200x200">
+  <a href="https://github.com/lewis-munyi/tweet-to-screenshot">
+    <img src="https://source.unsplash.com/2Bdyxgz3OM0/300x200">
   </a>
 </p>
 <p align="center">
