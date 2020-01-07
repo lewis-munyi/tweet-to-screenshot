@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/lewis-munyi/tweet-to-screenshot">
-    <img src="https://source.unsplash.com/SyzQ5aByJnE/300x300">
+    <img src="https://source.unsplash.com/SyzQ5aByJnE/500x500">
   </a>
 </p>
 <p align="center">
