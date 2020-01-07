@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://source.unsplash.com/SyzQ5aByJnE/200x200">
+    <img src="https://source.unsplash.com/f-PH16nZHKI/200x200">
   </a>
 </p>
 <p align="center">
@@ -26,7 +26,6 @@
     - [Running cloud functions](#running-cloud-functions)
 - [Deployment](#deployment)
 - [Built With](#built-with)
-- [Versioning](#versioning)
 - [Authors](#authors)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
