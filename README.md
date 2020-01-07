@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/lewis-munyi/tweet-to-screenshot">
-    <img src="https://source.unsplash.com/SyzQ5aByJnE/500x500">
+    <img src="https://source.unsplash.com/2Bdyxgz3OM0/600x500">
   </a>
 </p>
 <p align="center">
@@ -160,5 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
+* Photo by <a href="https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"> Luke Chesser </a> on <a href="https://unsplash.com/s/photos/twitter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Enjoy :metal:
