@@ -70,7 +70,9 @@ with open('tweets.csv', 'wb') as file:
                      user_obj.description,
                      user_obj.geo_enabled,
                      user_obj.contributors_enabled]
-
+        print("###############################################")
+        print("Fetching tweets by {}.".format(user))
+        print("###############################################")
         # Get 2000 most recent tweets for the current user.
         for index, tweet in enumerate(tweepy.Cursor(api.user_timeline, screen_name = user).items(2000)):
             print("Getting tweet {} of 2000........ {}% complete".format(index, round(index/2000 * 100, 1)))
